@@ -1,16 +1,8 @@
-# app
+# Microsof-Flutter-App
 
-A new Flutter project.
+### This App Uses Flutter Webview Package for directly rendering the content of the App
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Check the & Download the App here
+- [Download the App](https://drive.google.com/file/d/1tjiqQZqWzq40X6w-1cT4TE_c9a4Lex1p/view?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
