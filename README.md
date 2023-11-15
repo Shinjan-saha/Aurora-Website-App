@@ -1,6 +1,6 @@
 # Microsof-Flutter-App
 
-### This App Uses Flutter Webview Package for directly rendering the content of the App
+### This App Uses Flutter Webview Package for directly rendering the content of the App from the Website
 
 
 ## Check the & Download the App here
